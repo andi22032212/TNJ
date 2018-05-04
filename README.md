@@ -1,5 +1,5 @@
 # WavesJ
-A Java library for interacting with the Waves blockchain.
+A Java library for interacting with the Turtle Network.
 
 Supports node interaction, offline transaction signing, Matcher orders, and creating addresses and keys.
 

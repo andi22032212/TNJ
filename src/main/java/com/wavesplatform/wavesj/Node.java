@@ -25,7 +25,7 @@ import java.util.Collection;
 import java.util.List;
 
 public class Node {
-    private static final String DEFAULT_NODE = "https://testnode1.wavesnodes.com";
+    private static final String DEFAULT_NODE = "https://privatenode.blackturtle.eu";
 
     private static final ObjectMapper mapper = new ObjectMapper();
     private static final TypeReference<OrderBook> ORDER_BOOK = new TypeReference<OrderBook>() {};
